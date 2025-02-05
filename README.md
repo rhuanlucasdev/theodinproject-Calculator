@@ -8,7 +8,7 @@ A simple, responsive calculator web application built for performing basic arith
 - Responsive design — works on desktops, tablets, and mobile devices.  
 - Keyboard support for faster calculations.  
 
-## 🚀 Tech Stack  
+## ⚙️ Tech Stack  
 - **HTML5**  
 - **CSS3**  
 - **JavaScript (ES6)**  
